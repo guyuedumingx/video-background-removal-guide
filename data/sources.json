@@ -1,0 +1,83 @@
+{
+  "reviewedOn": "2026-10-25",
+  "publisherDisclosure": "Maintained by Remove Background From Video. No independent endorsement or controlled competitor benchmark is claimed.",
+  "sources": [
+    {
+      "id": "product",
+      "url": "https://removebackgroundfromvideo.org/pricing",
+      "kind": "first-party",
+      "supports": "Current packs, credit calculation and one-time billing",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "preview",
+      "url": "https://removebackgroundfromvideo.org/free-video-background-remover",
+      "kind": "first-party",
+      "supports": "One-time verified-person preview and watermark limits",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "quality",
+      "url": "https://removebackgroundfromvideo.org/video-background-removal-tests",
+      "kind": "first-party",
+      "supports": "Published files, synthetic sources and incomplete benchmark scope",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "privacy",
+      "url": "https://removebackgroundfromvideo.org/privacy-policy",
+      "kind": "first-party",
+      "supports": "File handling and storage conditions",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "capcut",
+      "url": "https://www.capcut.com/resource/how-to-remove-background-in-capcut",
+      "kind": "official-provider-documentation",
+      "supports": "Auto removal, custom removal and chroma-key editor workflow",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "canva",
+      "url": "https://www.canva.com/features/video-background-remover/",
+      "kind": "official-provider-documentation",
+      "supports": "Canva Pro video removal and the described MP4 workflow",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "veed",
+      "url": "https://support.veed.io/en/articles/11653155-how-to-remove-background-from-your-videos",
+      "kind": "official-provider-documentation",
+      "supports": "Person-focused AI removal, chroma key and plan conditions",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "apple",
+      "url": "https://support.apple.com/en-us/102207",
+      "kind": "official-provider-documentation",
+      "supports": "ProRes codec family and alpha support",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "adobe",
+      "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/modify-clip-properties/modifying-clip-properties-with-interpret-footage.html",
+      "kind": "official-provider-documentation",
+      "supports": "Premiere clip interpretation including alpha",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "obs",
+      "url": "https://obsproject.com/kb/media-sources",
+      "kind": "official-provider-documentation",
+      "supports": "Media Source formats and playback settings",
+      "handsOnCompetitorTest": false
+    },
+    {
+      "id": "resolve",
+      "url": "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_20_Supported_Codec_List.pdf",
+      "kind": "official-provider-documentation",
+      "supports": "Resolve 20 codec support varies by OS and version",
+      "handsOnCompetitorTest": false
+    }
+  ]
+}

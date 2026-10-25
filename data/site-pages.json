@@ -1,0 +1,471 @@
+{
+  "snapshotDate": "2026-10-25",
+  "sourceSitemap": "https://removebackgroundfromvideo.org/sitemap.xml",
+  "indexableUrlCount": 65,
+  "pages": [
+    {
+      "url": "https://removebackgroundfromvideo.org/blog",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/blog",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/blog",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/blog",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/blog",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/blog",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Blog and tutorials",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "AI video background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/gif-background-remover",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/gif-background-remover",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/gif-background-remover",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/gif-background-remover",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/gif-background-remover",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/gif-background-remover",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "GIF background remover",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/free-video-background-remover",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/free-video-background-remover",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/free-video-background-remover",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/free-video-background-remover",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/free-video-background-remover",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/free-video-background-remover",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Free AI preview",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/change-video-background",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/change-video-background",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/change-video-background",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/change-video-background",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/change-video-background",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/change-video-background",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Change video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blur-video-background",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/blur-video-background",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/blur-video-background",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/blur-video-background",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/blur-video-background",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/blur-video-background",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Blur video background",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/green-screen-remover",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/green-screen-remover",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/green-screen-remover",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/green-screen-remover",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/green-screen-remover",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/green-screen-remover",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Green-screen chroma key",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/make-gif-transparent",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/make-gif-transparent",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/make-gif-transparent",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/make-gif-transparent",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/make-gif-transparent",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/make-gif-transparent",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Make an animated GIF transparent",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pricing",
+      "locale": "en",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/zh/pricing",
+      "locale": "zh",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/es/pricing",
+      "locale": "es",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/de/pricing",
+      "locale": "de",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/pt/pricing",
+      "locale": "pt",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/ko/pricing",
+      "locale": "ko",
+      "category": "tool-or-index",
+      "label": "Pricing and credit calculator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/use-transparent-video-in-editors",
+      "locale": "en",
+      "category": "article",
+      "label": "CapCut, DaVinci Resolve, Premiere Pro and OBS workflows",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/unscreen-alternatives",
+      "locale": "en",
+      "category": "article",
+      "label": "Unscreen replacement workflows",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/transparent-video-formats",
+      "locale": "en",
+      "category": "article",
+      "label": "Transparent video formats",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/make-transparent-gif-from-video",
+      "locale": "en",
+      "category": "article",
+      "label": "Make a transparent GIF from video",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/how-to-remove-background-from-video",
+      "locale": "en",
+      "category": "article",
+      "label": "How to remove background from video",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/about",
+      "locale": "en",
+      "category": "policy",
+      "label": "About the operator",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/privacy-policy",
+      "locale": "en",
+      "category": "policy",
+      "label": "Privacy and storage policy",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/terms-of-service",
+      "locale": "en",
+      "category": "policy",
+      "label": "Terms of service",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/refund-policy",
+      "locale": "en",
+      "category": "policy",
+      "label": "Refund policy",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/acceptable-use",
+      "locale": "en",
+      "category": "policy",
+      "label": "Acceptable use",
+      "indexable": true
+    },
+    {
+      "url": "https://removebackgroundfromvideo.org/blog/video-background-removal-resources",
+      "locale": "en",
+      "category": "article",
+      "label": "Resources and public guides",
+      "indexable": true
+    }
+  ],
+  "supplementalPages": [
+    {
+      "url": "https://removebackgroundfromvideo.org/video-background-removal-tests",
+      "locale": "en",
+      "category": "incomplete-benchmark",
+      "label": "Published examples and incomplete test protocol",
+      "indexable": false
+    }
+  ]
+}

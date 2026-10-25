@@ -1,0 +1,82 @@
+{
+  "snapshotDate": "2026-10-25",
+  "source": "https://removebackgroundfromvideo.org/pricing",
+  "sourceCommit": "884508c735f77e2b46e7a3e097855f20161ae394",
+  "maxSeconds": 60,
+  "maxSizeMB": 200,
+  "inputs": [
+    "MP4",
+    "MOV",
+    "WebM",
+    "animated GIF"
+  ],
+  "outputs": [
+    "VP9 alpha WebM",
+    "ProRes 4444 MOV",
+    "transparent GIF",
+    "solid-colour H.264 MP4"
+  ],
+  "billing": {
+    "recurring": false,
+    "creditsExpire": false
+  },
+  "tiers": {
+    "draft": {
+      "model": "VEED Video Background Removal (fast)",
+      "creditsPerSecondAt30fps": 0.75,
+      "frameRateDependent": true,
+      "edgeRefinement": false
+    },
+    "standard": {
+      "model": "VEED Video Background Removal (fast)",
+      "creditsPerSecondAt30fps": 1,
+      "frameRateDependent": true,
+      "edgeRefinement": true
+    },
+    "pro": {
+      "model": "Bria Video Background Removal v3",
+      "creditsPerSecondAt30fps": 4,
+      "frameRateDependent": false,
+      "edgeRefinement": null
+    }
+  },
+  "packs": [
+    {
+      "name": "Trial",
+      "usd": 4.9,
+      "credits": 100
+    },
+    {
+      "name": "Starter",
+      "usd": 9.9,
+      "credits": 230
+    },
+    {
+      "name": "Creator",
+      "usd": 29.9,
+      "credits": 1000
+    },
+    {
+      "name": "Studio",
+      "usd": 79.9,
+      "credits": 3200
+    },
+    {
+      "name": "Agency",
+      "usd": 199.9,
+      "credits": 9000
+    }
+  ],
+  "freePreview": {
+    "seconds": 5,
+    "oncePerVerifiedPerson": true,
+    "watermark": true,
+    "downloads": 1,
+    "downloadAvailabilityDays": 2
+  },
+  "gifExport": {
+    "fps": 12,
+    "maxWidth": 480,
+    "audio": false
+  }
+}
